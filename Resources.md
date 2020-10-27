@@ -23,7 +23,7 @@ Here are recommended books in different areas of interest.
 
 [Logicomix](https://www.amazon.com/Logicomix-search-truth-Apostolos-Doxiadis/dp/1596914521 "Logicomix") - A comic which goes through some of the foundational issues in mathematics.
 
-[Elliptic Tales: Curves, Counting, and Number Theory](https://www.amazon.com/Elliptic-Tales-Curves-Counting-Number/dp/0691151199 "Elliptic Tales: Curves, Counting, and Number Theory") - Gives a really nice introduction to the Birch and Swinnerton-Dyer Conjecture, which is one of the *Millennium Prize Problems*.
+[Elliptic Tales: Curves, Counting, and Number Theory](https://www.amazon.com/Elliptic-Tales-Curves-Counting-Number/dp/0691151199 "Elliptic Tales: Curves, Counting, and Number Theory") - Gives a really nice introduction to the Birch and Swinnerton-Dyer Conjecture, which is one of the **Millennium Prize Problems**.
 
 ## Articles
 
