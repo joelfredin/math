@@ -26,6 +26,9 @@ Here are recommended books in different areas of interest.
 
 [Elliptic Tales: Curves, Counting, and Number Theory](https://www.amazon.com/Elliptic-Tales-Curves-Counting-Number/dp/0691151199 "Elliptic Tales: Curves, Counting, and Number Theory") - Gives a really nice introduction to the Birch and Swinnerton-Dyer Conjecture, which is one of the **Millennium Prize Problems**.
 
+### Foundations and Logic
+[The Higher Infinite](https://www.springer.com/gp/book/9783540888666 "The Higher Infinite") - The book to deepen your understanding of large cardinals.
+
 ## Articles
 
 Articles which I consider worth reading.
