@@ -16,6 +16,8 @@ Here are recommended books in different areas of interest.
 
 [Visual Group Theory](https://www.amazon.com/Visual-Group-Theory-Problem-Book/dp/088385757X "Visual Group Theory") - Teaches group theory through intuition.
 
+[Logicomix](https://www.amazon.com/Logicomix-search-truth-Apostolos-Doxiadis/dp/1596914521 "Logicomix") - A comic which goes through some of the foundational issues in mathematics.
+
 ## Articles
 
 Articles which I consider worth reading.
