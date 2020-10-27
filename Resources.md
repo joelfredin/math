@@ -7,6 +7,7 @@
 - [Articles](#articles)
   - [Homotopy Theory](#homotopy-theory)
 - [Blogs](#blogs)
+- [Other Useful Websites](#other-useful-websites)
 
 ## How to Study Mathematics
 
@@ -38,3 +39,7 @@ Articles which I consider worth reading.
 ## Blogs
 
 [Terrytao](https://terrytao.wordpress.com/ "Terrytao") - A blog by Terence Tao.
+
+## Other Useful Websites
+
+[AMS](https://www.ams.org/home/page "AMS") - The American Mathematical Society has tons of good resources. They have the "American Mathematical Monthly", which writes about recent breakthroughs and other things that has happened in the field of mathematics lately. They also have guest authors who tries to write technical mathematics for the laymen.
