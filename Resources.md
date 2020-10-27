@@ -1,12 +1,16 @@
 # Resources
 
 ## Contents
-
+- [How to Study Mathematics](#how-to-study-mathematics)
 - [Books](#books)
   - [Toy Books](#toy-books)
 - [Articles](#articles)
   - [Homotopy Theory](#homotopy-theory)
 - [Blogs](#blogs)
+
+## How to Study Mathematics
+
+To study mathematics
 
 ## Books
 
