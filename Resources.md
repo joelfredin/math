@@ -25,6 +25,8 @@ Articles which I consider worth reading.
 
 ### Homotopy Theory
 
+[The First Stable Homotopy Groups of Motivic Spheres](https://arxiv.org/pdf/1604.00365.pdf "The First Stable Homotopy Groups of Motivic Spheres") - Studies stable motivic homotopy groups of motivic spheres. It uses the slice spectral sequence.
+
 ## Blogs
 
 [Terrytao](https://terrytao.wordpress.com/ "Terrytao") - A blog by Terence Tao.
