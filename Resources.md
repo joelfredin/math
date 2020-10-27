@@ -21,3 +21,5 @@ Here are recommended books in different areas of interest.
 Articles which I consider worth reading.
 
 ## Blogs
+
+[Terrytao](https://terrytao.wordpress.com/ "Terrytao") - A blog by Terrence Tao.
