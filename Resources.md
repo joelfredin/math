@@ -5,6 +5,7 @@
 - [Books](#books)
   - [Toy Books](#toy-books)
 - [Articles](#articles)
+- [Blogs](#blogs)
 
 ## Books
 
@@ -18,3 +19,5 @@ Here are recommended books in different areas of interest.
 ## Articles
 
 Articles which I consider worth reading.
+
+## Blogs
