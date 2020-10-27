@@ -27,6 +27,8 @@ Articles which I consider worth reading.
 
 [The First Stable Homotopy Groups of Motivic Spheres](https://arxiv.org/pdf/1604.00365.pdf "The First Stable Homotopy Groups of Motivic Spheres") - Studies stable motivic homotopy groups of motivic spheres. They are using the slice spectral sequence.
 
+[Algebraic Cobordism and Étale Cohomology](https://arxiv.org/pdf/1711.06258.pdf "Algebraic Cobordism and Étale Cohomology") - Studies connections between algebraic cobordism and étale cohomology.
+
 ## Blogs
 
 [Terrytao](https://terrytao.wordpress.com/ "Terrytao") - A blog by Terence Tao.
