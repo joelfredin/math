@@ -45,6 +45,8 @@ Articles which I consider worth reading.
 
 [Gowers](https://gowers.wordpress.com/ "Gowers") - A blog by Timothy Gowers. Also a fields medalist.
 
+[Annoying Precision](https://qchu.wordpress.com/ "Annoying Precision") - Discusses a lot of interesting concepts which arises in pure mathematics.
+
 ## Other Useful Websites
 
 [AMS](https://www.ams.org/home/page "AMS") - The American Mathematical Society has tons of good resources. They have the "American Mathematical Monthly", which writes about recent breakthroughs and other things that has happened in the field of mathematics lately. They also have guest authors who tries to write technical mathematics for the laymen.
