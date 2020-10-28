@@ -41,7 +41,9 @@ Articles which I consider worth reading.
 
 ## Blogs
 
-[Terrytao](https://terrytao.wordpress.com/ "Terrytao") - A blog by Terence Tao.
+[Terrytao](https://terrytao.wordpress.com/ "Terrytao") - A blog by Terence Tao. A fields medalist.
+
+[Gowers](https://gowers.wordpress.com/ "Gowers") - A blog by Timothy Gowers. Also a fields medalist.
 
 ## Other Useful Websites
 
