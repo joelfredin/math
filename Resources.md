@@ -11,7 +11,9 @@
 
 ## How to Study Mathematics
 
-To study mathematics
+Studying mathematics can be considered an art. I will try to give some general advices here. We divide it into three categories **Lower-Level**, **Intermediate-Level** and **Upper-Level**. The Lower-level may be applicable for ones 2-3 first years at university. The next ~2 years may fall under Intermediate-Level. And then Upper-Level.
+
+**Lower-Level:**
 
 ## Books
 
@@ -45,7 +47,7 @@ Articles which I consider worth reading.
 
 [Gowers](https://gowers.wordpress.com/ "Gowers") - A blog by Timothy Gowers. Also a fields medalist.
 
-[Annoying Precision](https://qchu.wordpress.com/ "Annoying Precision") - Discusses a lot of interesting concepts which arises in pure mathematics.
+[Annoying Precision](https://qchu.wordpress.com/ "Annoying Precision") - Discusses a lot of interesting concepts which arises in high level, advanced, pure mathematics.
 
 ## Other Useful Websites
 
